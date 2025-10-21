@@ -8,4 +8,4 @@
 
 ## French Portefolio
 
-![Alt text](/Screenshot 2025-10-17 at 16.07.04.png)
+![Alt text](Screenshot 2025-10-17 at 16.07.04.png)
